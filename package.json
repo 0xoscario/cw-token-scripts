@@ -1,0 +1,28 @@
+{
+  "name": "cw-token-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "dependencies": {
+    "@terra-money/terra.js": "^3.0.11",
+    "axios": "^0.27.2",
+    "isomorphic-fetch": "^3.0.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xBlockchain/cw-token-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xBlockchain/cw-token-scripts/issues"
+  },
+  "homepage": "https://github.com/0xBlockchain/cw-token-scripts#readme"
+}
